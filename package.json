@@ -8,8 +8,8 @@
     "url": "https://github.com/montagejs/matte.git"
   },
   "dependencies": {
-    "montage": ">=16.0.4",
-    "native": "^0.3.3"
+    "montage": "marchant/native#montage-19",
+    "native": "marchant/native#master"
   },
   "devDependencies": {
     "concurrently": "^3.4.0",
